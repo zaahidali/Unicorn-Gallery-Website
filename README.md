@@ -7,3 +7,8 @@
 - Store all the code in the **xampp/httdocs** folder
 - Enable the **Apache** & **MySQL** from **XAMPP**.
 - Then run the code from **Admin** section from the **XAMPP**.
+
+ *Note:*
+- Default username : **zahid**
+- password: **1234**
+
